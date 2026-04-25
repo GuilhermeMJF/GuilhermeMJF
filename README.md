@@ -8,7 +8,7 @@ I am a 20-year-old University Student from São Paulo, Brazil. I am currently pu
 ### What I do:
 * 🌐 **Front-end Development:** Crafting responsive and accessible interfaces using HTML5, CSS3, and JavaScript.
 * 🎨 **UI/UX Focus:** Learning how to make applications more intuitive and user-friendly.
-* ⚽ **Interests:** Beyond coding, I'm a big soccer fanand I love exploring the intersection of technology and sports.
+* ⚽ **Interests:** Beyond coding, I'm a big soccer fan and I love exploring the intersection of technology and sports.
 
 ### My Goal:
 I am focused on becoming a professional Web Developer, building tools that solve real problems through technology and design.
