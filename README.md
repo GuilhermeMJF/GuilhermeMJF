@@ -3,7 +3,7 @@
 🚀 **Software Engineer Student**  
 Brazil
 
-I am a 20-year-old University Student from São Paulo, Brazil. I am currently pursuing my studies in **Sofwtare engineering**, where I combine my passion for clean code with great user experiences.
+I am a 20-year-old University Student from São Paulo, Brazil. I am currently pursuing my studies in **Software engineering**, where I combine my passion for clean code with great user experiences.
 
 ### What I do:
 * 🌐 **Front-end Development:** Crafting responsive and accessible interfaces using HTML5, CSS3, and JavaScript.
