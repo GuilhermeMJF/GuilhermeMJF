@@ -5,6 +5,8 @@ Brazil
 
 I am a 20-year-old University Student from São Paulo, Brazil. I am currently pursuing my studies in **Software engineering**, where I combine my passion for clean code with great user experiences.
 
+👉 **Portfolio:** [guilhermemjf.github.io](https://guilhermemjf.github.io)
+
 ### What I do:
 * 🌐 **Front-end Development:** Crafting responsive and accessible interfaces using HTML5, CSS3, and JavaScript.
 * 🎨 **UI/UX Focus:** Learning how to make applications more intuitive and user-friendly.
@@ -18,6 +20,9 @@ I am focused on becoming a professional Web Developer, building tools that solve
 ## 🌐 Where to find me
 
 <p align="left">
+  <a href="https://guilhermemjf.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-guilhermemjf.github.io-2747D6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://github.com/GuilhermeMJF">
     <img src="https://img.shields.io/badge/GitHub-GuilhermeMJF-181717?style=for-the-badge&logo=github" />
   </a>
