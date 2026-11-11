@@ -60,7 +60,7 @@ Meu site pessoal, feito do zero em uma única página com HTML e CSS, sem framew
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=dbeaver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps e Ferramentas
