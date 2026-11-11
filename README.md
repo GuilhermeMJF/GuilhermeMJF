@@ -26,8 +26,8 @@ Estou focado em me tornar um Desenvolvedor Web profissional, criando ferramentas
   <a href="https://github.com/GuilhermeMJF">
     <img src="https://img.shields.io/badge/GitHub-GuilhermeMJF-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/lgui_mjf">
-    <img src="https://img.shields.io/badge/Instagram-@lgui_mjf-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/luiz-guilherme-marcondes">
+    <img src="https://img.shields.io/badge/LinkedIn-Luiz_Guilherme_Marcondes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
