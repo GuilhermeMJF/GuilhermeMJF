@@ -1,27 +1,27 @@
-# Hi 👋, I'm Luiz Guilherme Marcondes
+# Olá 👋, eu sou o Luiz Guilherme Marcondes
 
-🚀 **Software Engineer Student**  
-Brazil
+🚀 **Estudante de Engenharia de Software**  
+Brasil
 
-I am a 20-year-old University Student from São Paulo, Brazil. I am currently pursuing my studies in **Software engineering**, where I combine my passion for clean code with great user experiences.
+Tenho 20 anos e sou estudante universitário de São Paulo, Brasil. Atualmente curso **Engenharia de Software**, onde uno minha paixão por código limpo com ótimas experiências de usuário.
 
-👉 **Portfolio:** [guilhermemjf.github.io](https://guilhermemjf.github.io)
+👉 **Portfólio:** [guilhermemjf.github.io](https://guilhermemjf.github.io)
 
-### What I do:
-* 🌐 **Front-end Development:** Crafting responsive and accessible interfaces using HTML5, CSS3, and JavaScript.
-* 🎨 **UI/UX Focus:** Learning how to make applications more intuitive and user-friendly.
-* ⚽ **Interests:** Beyond coding, I'm a big soccer fan and I love exploring the intersection of technology and sports.
+### O que eu faço:
+* 🌐 **Desenvolvimento Front-end:** Criando interfaces responsivas e acessíveis com HTML5, CSS3 e JavaScript.
+* 🎨 **Foco em UI/UX:** Aprendendo a tornar aplicações mais intuitivas e fáceis de usar.
+* ⚽ **Interesses:** Além de programar, sou muito fã de futebol e adoro explorar a conexão entre tecnologia e esporte.
 
-### My Goal:
-I am focused on becoming a professional Web Developer, building tools that solve real problems through technology and design.
+### Meu objetivo:
+Estou focado em me tornar um Desenvolvedor Web profissional, criando ferramentas que resolvam problemas reais por meio da tecnologia e do design.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://guilhermemjf.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-guilhermemjf.github.io-2747D6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfólio-guilhermemjf.github.io-2747D6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/GuilhermeMJF">
     <img src="https://img.shields.io/badge/GitHub-GuilhermeMJF-181717?style=for-the-badge&logo=github" />
@@ -33,21 +33,21 @@ I am focused on becoming a professional Web Developer, building tools that solve
 
 ---
 
-## 🧠 What I do
+## 🧠 Áreas de atuação
 
--   🏗️ Web Development
--   ⚛️ Modern Frameworks
--   🧩 Clean architecture & system design
--   🎨 UX/UI Design
--   📊 Data & Backend
--   📱 Responsive Design
--   ☁️ Cloud Computing
--   ☕ Java Development
--   🐍 Python Scripting
+-   🏗️ Desenvolvimento Web
+-   ⚛️ Frameworks modernos
+-   🧩 Arquitetura limpa e design de sistemas
+-   🎨 Design de UX/UI
+-   📊 Dados e Backend
+-   📱 Design responsivo
+-   ☁️ Computação em nuvem
+-   ☕ Desenvolvimento Java
+-   🐍 Scripts em Python
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ### Frontend
 
@@ -65,7 +65,7 @@ I am focused on becoming a professional Web Developer, building tools that solve
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### DevOps & Tools
+### DevOps e Ferramentas
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
@@ -74,7 +74,7 @@ I am focused on becoming a professional Web Developer, building tools that solve
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMJF&show_icons=true&theme=tokyonight&count_private=true" />
@@ -83,11 +83,11 @@ I am focused on becoming a professional Web Developer, building tools that solve
 
 ---
 
-## 🚀 Philosophy
+## 🚀 Filosofia
 
-"Building bridges between complex logic and intuitive design to solve real-world problems."_
+_"Construindo pontes entre lógica complexa e design intuitivo para resolver problemas do mundo real."_
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ Se você curte meu trabalho, considere dar uma estrela em algum repositório  
+🤝 Sempre aberto a colaborações, parcerias e ideias legais
