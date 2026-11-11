@@ -2,7 +2,7 @@
 
 🚀 **Estudante de Engenharia de Software** · São Paulo, Brasil
 
-Curso **Engenharia de Software** e gosto de unir código limpo a boas experiências de usuário. Meu objetivo é me tornar um Desenvolvedor Web profissional, criando ferramentas que resolvam problemas reais por meio da tecnologia e do design.
+Curso **Engenharia de Software** e me interesso por dois lados da tecnologia: **desenvolvimento web** e **dados**. Gosto de construir aplicações completas, da interface ao banco de dados, e de transformar dados em informação útil. Meu objetivo é crescer como desenvolvedor criando ferramentas que resolvam problemas reais.
 
 👉 **Portfólio:** [guilhermemjf.github.io](https://guilhermemjf.github.io)
 
@@ -28,6 +28,7 @@ Curso **Engenharia de Software** e gosto de unir código limpo a boas experiênc
 
 - 🌐 **Front-end:** interfaces responsivas e acessíveis com HTML, CSS, JavaScript e React
 - ⚙️ **Back-end:** APIs em Python com FastAPI, banco PostgreSQL e testes automatizados
+- 📊 **Dados:** modelagem de bancos relacionais, consultas SQL e Python para tratar, organizar e resumir dados
 - 🎨 **UX/UI:** aprendendo a tornar aplicações mais intuitivas e fáceis de usar
 - ⚽ **Fora do código:** sou muito fã de futebol e adoro explorar a conexão entre tecnologia e esporte
 
@@ -36,7 +37,7 @@ Curso **Engenharia de Software** e gosto de unir código limpo a boas experiênc
 ## 📂 Projetos em destaque
 
 ### 💰 [Controle de Gastos](https://github.com/GuilhermeMJF/controle-de-gastos) · [ver site](https://controle-de-gastos-psi-six.vercel.app)
-Aplicação web completa para registrar gastos pessoais por categoria, com limites mensais que mudam de cor ao se aproximar do teto. Tem login com JWT, senhas guardadas com hash e recuperação de senha por e-mail.
+Aplicação web completa para registrar gastos pessoais por categoria, com resumo de quanto cada categoria representa no total do mês e limites que mudam de cor ao se aproximar do teto. Tem login com JWT, senhas guardadas com hash e recuperação de senha por e-mail.
 `React` `Vite` `Python` `FastAPI` `PostgreSQL` `Pytest` `Docker`
 
 ### 🧑‍💻 [Portfólio](https://github.com/GuilhermeMJF/GuilhermeMJF.github.io) · [ver site](https://guilhermemjf.github.io)
@@ -55,10 +56,11 @@ Meu site pessoal, feito do zero em uma única página com HTML e CSS, sem framew
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend
+### Backend e Dados
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps e Ferramentas
