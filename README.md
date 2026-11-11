@@ -35,14 +35,10 @@ Estou focado em me tornar um Desenvolvedor Web profissional, criando ferramentas
 
 ## 🧠 Áreas de atuação
 
--   🏗️ Desenvolvimento Web
--   ⚛️ Frameworks modernos
--   🧩 Arquitetura limpa e design de sistemas
+-   🌐 Desenvolvimento Web responsivo
+-   ⚛️ Aplicações com React e Next.js
 -   🎨 Design de UX/UI
--   📊 Dados e Backend
--   📱 Design responsivo
--   ☁️ Computação em nuvem
--   ☕ Desenvolvimento Java
+-   ☕ Java com banco de dados (JDBC e MySQL)
 -   🐍 Scripts em Python
 
 ---
