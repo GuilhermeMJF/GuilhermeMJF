@@ -1,19 +1,10 @@
 # Olá 👋, eu sou o Luiz Guilherme Marcondes
 
-🚀 **Estudante de Engenharia de Software**  
-Brasil
+🚀 **Estudante de Engenharia de Software** · São Paulo, Brasil
 
-Tenho 20 anos e sou estudante universitário de São Paulo, Brasil. Atualmente curso **Engenharia de Software**, onde uno minha paixão por código limpo com ótimas experiências de usuário.
+Curso **Engenharia de Software** e gosto de unir código limpo a boas experiências de usuário. Meu objetivo é me tornar um Desenvolvedor Web profissional, criando ferramentas que resolvam problemas reais por meio da tecnologia e do design.
 
 👉 **Portfólio:** [guilhermemjf.github.io](https://guilhermemjf.github.io)
-
-### O que eu faço:
-* 🌐 **Desenvolvimento Front-end:** Criando interfaces responsivas e acessíveis com HTML5, CSS3 e JavaScript.
-* 🎨 **Foco em UI/UX:** Aprendendo a tornar aplicações mais intuitivas e fáceis de usar.
-* ⚽ **Interesses:** Além de programar, sou muito fã de futebol e adoro explorar a conexão entre tecnologia e esporte.
-
-### Meu objetivo:
-Estou focado em me tornar um Desenvolvedor Web profissional, criando ferramentas que resolvam problemas reais por meio da tecnologia e do design.
 
 ---
 
@@ -23,23 +14,34 @@ Estou focado em me tornar um Desenvolvedor Web profissional, criando ferramentas
   <a href="https://guilhermemjf.github.io">
     <img src="https://img.shields.io/badge/Portfólio-guilhermemjf.github.io-2747D6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://github.com/GuilhermeMJF">
-    <img src="https://img.shields.io/badge/GitHub-GuilhermeMJF-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/luiz-guilherme-marcondes">
     <img src="https://img.shields.io/badge/LinkedIn-Luiz_Guilherme_Marcondes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/GuilhermeMJF">
+    <img src="https://img.shields.io/badge/GitHub-GuilhermeMJF-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## 🧠 Áreas de atuação
+## 🧠 O que eu faço
 
--   🌐 Desenvolvimento Web responsivo
--   ⚛️ Aplicações com React e Next.js
--   🎨 Design de UX/UI
--   ☕ Java com banco de dados (JDBC e MySQL)
--   🐍 Scripts em Python
+- 🌐 **Front-end:** interfaces responsivas e acessíveis com HTML, CSS, JavaScript e React
+- ⚙️ **Back-end:** APIs em Python com FastAPI, banco PostgreSQL e testes automatizados
+- 🎨 **UX/UI:** aprendendo a tornar aplicações mais intuitivas e fáceis de usar
+- ⚽ **Fora do código:** sou muito fã de futebol e adoro explorar a conexão entre tecnologia e esporte
+
+---
+
+## 📂 Projetos em destaque
+
+### 💰 [Controle de Gastos](https://github.com/GuilhermeMJF/controle-de-gastos) · [ver site](https://controle-de-gastos-psi-six.vercel.app)
+Aplicação web completa para registrar gastos pessoais por categoria, com limites mensais que mudam de cor ao se aproximar do teto. Tem login com JWT, senhas guardadas com hash e recuperação de senha por e-mail.
+`React` `Vite` `Python` `FastAPI` `PostgreSQL` `Pytest` `Docker`
+
+### 🧑‍💻 [Portfólio](https://github.com/GuilhermeMJF/GuilhermeMJF.github.io) · [ver site](https://guilhermemjf.github.io)
+Meu site pessoal, feito do zero em uma única página com HTML e CSS, sem frameworks, e publicado no GitHub Pages.
+`HTML` `CSS`
 
 ---
 
@@ -47,26 +49,23 @@ Estou focado em me tornar um Desenvolvedor Web profissional, criando ferramentas
 
 ### Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps e Ferramentas
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
 
